@@ -22,6 +22,7 @@
 
 ## GitHub Stats
 ![Jonaydan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonaydan&show_icons=true&theme=radical)
+![roadmaps.sh](https://roadmap.sh/card/tall/677d633770129741a80bdc7a?variant=dark&roadmaps=javascript)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
@@ -31,4 +32,4 @@
 <!--
 **jonaydan/jonaydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [https://jonaydan.github.io/yann[(https://jonaydan.github.io/yann)]
-![roadmaps.sh](https://roadmap.sh/card/tall/677d633770129741a80bdc7a?variant=dark&roadmaps=javascript)
+
