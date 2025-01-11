@@ -30,5 +30,5 @@
 
 <!--
 **jonaydan/jonaydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://jonaydan.github.io/yann](https://jonaydan.github.io/yann)[
-
+[https://jonaydan.github.io/yann[(https://jonaydan.github.io/yann)]
+![roadmaps.sh](https://roadmap.sh/card/tall/677d633770129741a80bdc7a?variant=dark&roadmaps=javascript)
